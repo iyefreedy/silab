@@ -1,0 +1,49 @@
+{
+    "logout_button": "Keluar",
+    "note": "Note",
+    "cancel": "Batal",
+    "yes": "Ya",
+    "delete": "Hapus",
+    "sharing": "Sharing",
+    "ok": "OK",
+    "login": "Masuk",
+    "verify_email": "Verifikasi email",
+    "register": "Daftar",
+    "restart": "Ulang",
+    "delete_note_prompt": "Are you sure you want to delete this note?",
+    "cannot_share_empty_note_prompt": "Cannot share an empty note!",
+    "generic_error_prompt": "Terjadi kesalahan",
+    "logout_dialog_prompt": "Apakah anda yakin ingin keluar?",
+    "password_reset": "Atur ulang kata sandi",
+    "password_reset_dialog_prompt": "Kami telah mengirimkan sebuah tautan untuk mengatur ulang kata sandi anda. Silahkan periksa email kamu untuk info lebih lanjut.",
+    "login_error_cannot_find_user": "Tidak bisa menemukan kredensial anda!",
+    "login_error_wrong_credentials": "Kesalahan kredensial",
+    "login_error_auth_error": "Kesalahan otentikasi",
+    "login_view_prompt": "Please log in to your account in order to interact with and create notes!",
+    "login_view_forgot_password": "Saya lupa kata sandi",
+    "login_view_not_registered_yet": "Belum terdaftar? Daftar disini",
+    "email_text_field_placeholder": "Masukkan email anda",
+    "password_text_field_placeholder": "Masukkan kata sandi anda",
+    "forgot_password": "Lupa Kata Sandi",
+    "forgot_password_view_generic_error": "Kami tidak dapat memproses permintaan Anda. Harap pastikan bahwa Anda adalah pengguna terdaftar, atau jika tidak, daftarkan pengguna sekarang dengan mundur satu langkah.",
+    "forgot_password_view_prompt": "If you forgot your password, simply enter your email and we will send you a password reset link.",
+    "forgot_password_view_send_me_link": "Send me password reset link",
+    "forgot_password_view_back_to_login": "Back to login page",
+    "register_error_weak_password": "This password is not secure enough. Please choose another password!",
+    "register_error_email_already_in_use": "Email ini sudah terdaftar untuk pengguna lain. Silakan pilih email lain!",
+    "register_error_generic": "Gagal mendaftar. Silahkan coba lagi!",
+    "register_error_invalid_email": "Alamat email yang Anda masukkan tampaknya tidak valid. Silakan coba alamat email lain!",
+    "register_view_prompt": "Enter your email and password to see your notes!",
+    "register_view_already_registered": "Sudah mendaftar? Silahkan login disini!",
+    "verify_email_view_prompt": "Kami telah mengirimkan verifikasi email kepada Anda. Silakan buka untuk memverifikasi akun Anda. Jika Anda belum menerima email verifikasi, tekan tombol di bawah!",
+    "verify_email_send_email_verification": "Send email verification",
+    "notes_title": "{count, plural, =0{No notes yet} =1{1 note} other{{count} notes}}",
+    "@notes_title": {
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "3 notes"
+            }
+        }
+    }
+}

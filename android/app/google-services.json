@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91551564293",
+    "project_id": "silab-39494",
+    "storage_bucket": "silab-39494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91551564293:android:63b1549c2cba4a9482d26c",
+        "android_client_info": {
+          "package_name": "com.example.silab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91551564293-30jqt15c3m3su52v54gtr5u947i33d1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATJStV4FjIbDtFiWwO0wj-DRnpSMLK_z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91551564293-30jqt15c3m3su52v54gtr5u947i33d1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
